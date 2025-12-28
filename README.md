@@ -4,7 +4,7 @@
 
 😄 你好~ 我是 Harena Qin ([HarenaGodz](https://github.com/HarenaGodz))，目前是西南民族大学经济学院的本科生，主修金融学，喜爱[游戏](https://steamcommunity.com/id/Harena1121/)和许多有趣的东西
 
-Hello~ I'm Harena Qin ([HarenaGodz](https://github.com/HarenaGodz)), currently an undergraduate student at the School of Economics, Southwest Minzu University, majoring in Finance. I love [games](https://steamcommunity.com/id/Harena1121/) and many interesting things.
+Hello~ I'm Harena Qin ([HarenaGodz](https://github.com/HarenaGodz)), currently an undergraduate student at School of Economics, Southwest Minzu University, majoring in Finance. I love [games](https://steamcommunity.com/id/Harena1121/) and many interesting things.
 
 如果你想聊聊，可以给我发邮件 (arurua@proton.me)
 

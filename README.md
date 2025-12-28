@@ -15,34 +15,16 @@ interests:
   - Automation & CI/CD
   - Web Scraping
 ```
-
-</td>
-<td width="50%">
-
-```yaml
-姓名: Harena Qin
-位置: 四川成都 🇨🇳
-学校: 西南民族大学
-兴趣方向:
-  - Android 内核开发
-  - OpenWrt & 网络技术
-  - 自动化 & CI/CD
-  - 网络爬虫
-```
-
 </td>
 </tr>
 </table>
 
-## �️ Tech bStack | 技术栈
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>   
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>   
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,c#,Go,js,python&theme=dark" />
-</p>
-
-## 📊 GitHub Stats | 统计数据
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarenaGodz)](https://github.com/anuraghazra/github-readme-stats)
+[![Harena's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarenaGodz)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

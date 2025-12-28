@@ -8,7 +8,7 @@ Hello~ I'm Harena Qin ([HarenaGodz](https://github.com/HarenaGodz)), currently a
 
 如果你想聊聊，可以给我发邮件 (arurua@proton.me)
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,c,cpp,js,html,css,vue,kali,py,r&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ableton,cs,cpp,js,html,css,vue,kali,androidstudio,py,r&theme=light)](https://skillicons.dev)
 
 [![Harena's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarenaGodz)](https://github.com/anuraghazra/github-readme-stats)
 

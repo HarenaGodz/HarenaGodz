@@ -8,10 +8,7 @@ Hello~ I'm Harena Qin ([HarenaGodz](https://github.com/HarenaGodz)), currently a
 
 如果你想聊聊，可以给我发邮件 (arurua@proton.me)
 
-[![My Skills](https://skillicons.dev/icons?i=ableton,c,cpp,js,html,css,vue,kali,py,r&perline=5)](https://skillicons.dev)
-
-
-<code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code><code><img height="30" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>   <code><img height="30" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>  <code><img height="30" alt="android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>  
+[![My Skills](https://skillicons.dev/icons?i=ableton,c,cpp,js,html,css,vue,kali,py,r&theme=light)](https://skillicons.dev)
 
 [![Harena's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarenaGodz)](https://github.com/anuraghazra/github-readme-stats)
 

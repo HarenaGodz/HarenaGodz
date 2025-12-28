@@ -14,7 +14,7 @@ Ciallo～(∠·ω< )⌒★
 
 如果你想聊聊，可以给我发邮件 (arurua@proton.me)
 
-[![Harena's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarenaGodz)](https://github.com/HarenaGodz/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarenaGodz&show_icons=true&theme=radical)
 
 ---
 

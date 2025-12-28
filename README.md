@@ -7,8 +7,7 @@
 ```yaml
 name: Harena Qin
 location: Chengdu, Sichuan 🇨🇳
-education: SMU (SWUN)
-status: 🎯 Focusing
+education: Financial Studies, Southwest Minzu University
 interests:
   - Android Kernel Development
   - OpenWrt & Networking

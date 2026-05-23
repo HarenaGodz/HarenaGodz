@@ -15,8 +15,6 @@ Ciallo～(∠·ω< )⌒★
 如果你想聊聊，可以给我发邮件 (arurua@proton.me)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarenaGodz&theme=github_dark" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarenaGodz&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Most used programming languages" />
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />

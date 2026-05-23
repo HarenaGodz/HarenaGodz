@@ -2,13 +2,9 @@
 
 
 
-😄 你好~ 我是 Harena Qin ([HarenaGodz](https://github.com/HarenaGodz))，是一名在读本科生，主修金融学，喜爱[游戏](https://steamcommunity.com/id/Harena1121/)、电子音乐和许多有趣的东西
-
-Hello~ I'm Harena Qin ([HarenaGodz](https://github.com/HarenaGodz)). I’m an undergraduate majoring in Finance. I love [games](https://steamcommunity.com/id/Harena1121/), electronic music and lots of interesting things.
+😄 Ciallo～(∠·ω< )⌒★
 
 [![My Skills](https://skillicons.dev/icons?i=ableton,cs,cpp,js,html,css,vue,kali,androidstudio,py,r&theme=light)](https://skillicons.dev)
-
-Ciallo～(∠·ω< )⌒★
 
 我有故事，你有酒吗？
 

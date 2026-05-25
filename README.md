@@ -1,23 +1,15 @@
+<div align="center">
+
 ### 😄 Ciallo～(∠·ω< )⌒★
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,py,go,cpp,cs,r,html,css,vue,docker,linux,kali,androidstudio,ableton&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <em>我有故事，你有酒吗？</em> · <a href="mailto:arurua@proton.me">📫 arurua@proton.me</a>
+</p>
 
-</div>
-
----
-
-## 📊 GitHub Stats
+[![Skills](https://skillicons.dev/icons?i=js,py,go,cpp,cs,html,css,vue,docker,linux,androidstudio,ableton&theme=dark)](https://skillicons.dev)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarenaGodz&theme=tokyonight" alt="Profile Details" />
 
----
-
-<div align="center">
-
-> 我有故事，你有酒吗？
-
-📫 [arurua@proton.me](mailto:arurua@proton.me)
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
+<br/>
 
 </div>

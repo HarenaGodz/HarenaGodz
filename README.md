@@ -1,12 +1,14 @@
-<div align="center">
+<div align="left">
 
-### 😄 Ciallo～(∠·ω< )⌒★
+### Ciallo～(∠・ω<)⌒★
 
-<p align="center">
+<p align="left">
   <em>我有故事，你有酒吗？</em> · <a href="mailto:arurua@proton.me">📫 arurua@proton.me</a>
 </p>
 
-[![Skills](https://skillicons.dev/icons?i=js,py,go,cpp,cs,html,css,vue,docker,linux,androidstudio,ableton&theme=dark)](https://skillicons.dev)
+[![Full Stack](https://skillicons.dev/icons?i=html,css,js,vue,nodejs,py,go,docker,sqlite&theme=dark&perline=5)](https://skillicons.dev)
+
+[![Other](https://skillicons.dev/icons?i=arch,ableton&theme=dark&perline=3)](https://skillicons.dev)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HarenaGodz&theme=tokyonight" alt="Profile Details" />
 

@@ -11,32 +11,6 @@
 
 </div>
 
-## 精选项目 / Selected work
-
-<table>
-  <tr>
-    <td width="28%">
-      <strong><a href="https://github.com/HarenaGodz/LinkGlint">LinkGlint</a></strong><br>
-      <sub>公开 / Public · Swift · macOS</sub>
-    </td>
-    <td>原生 macOS 菜单栏网络适配器管理工具。<br><sub>Native macOS menu bar network adapter manager.</sub></td>
-  </tr>
-  <tr>
-    <td>
-      <strong>SMUNightmare</strong><br>
-      <sub>私有 / Private · Go · Node.js</sub>
-    </td>
-    <td>自托管晚间打卡平台，包含 API、Worker、管理台、PostgreSQL、Redis 和浏览器自动化。<br><sub>Self-hosted scheduled check-in platform with an API, worker, admin console, PostgreSQL, Redis and browser automation.</sub></td>
-  </tr>
-  <tr>
-    <td>
-      <strong>SMUPhantom</strong><br>
-      <sub>私有 / Private · JavaScript · PHP</sub>
-    </td>
-    <td>浏览器端 Geolocation API 研究与调试项目，包含用户脚本、服务端和地图选点功能。<br><sub>Browser-side Geolocation API research project with a userscript, server and map picker.</sub></td>
-  </tr>
-</table>
-
 ## 技术栈 / Tech stack
 
 <table align="center">
